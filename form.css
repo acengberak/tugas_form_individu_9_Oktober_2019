@@ -1,0 +1,26 @@
+.navigasi img {
+    width: 100px;
+    height: 100px;
+
+}
+
+h5  {
+    color: #014694;
+    font-weight: 600px;
+}
+
+hr {
+    color: #014694;
+}
+
+h1  {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.container .kerangka {
+    border: 2px solid #014694;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
